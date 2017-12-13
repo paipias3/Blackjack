@@ -1,0 +1,3 @@
+gfxblackjack.py : original version
+gfxblackjack6.py : add betting version
+gfxblackjack7.py : add gamehelper version, final version
